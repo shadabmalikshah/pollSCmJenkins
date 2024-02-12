@@ -1,8 +1,7 @@
 package com.cybage.jacoco;
 
 /**
- * Hello world!
- *
+ * Hello world!Cpmmited for POll SCm Jenkins
  */
 public class App 
 {
